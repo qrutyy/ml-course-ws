@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 ### datasets (svhn and similar; too large for github) ###
 *.mat
 
+=======
+>>>>>>> c784900 (repo: ignore macos + notebooks)
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
