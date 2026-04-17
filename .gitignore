@@ -1,3 +1,6 @@
+### datasets (svhn and similar; too large for github) ###
+*.mat
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
